@@ -70,33 +70,7 @@ Generative_AI/
 │   ├── api_setup.md
 │   └── examples/
 │
-├── 01-LLM_Fundamentals/
-│
-├── 02-Prompt_Engineering/
-│
-├── 03-LLM_Models/
-│
-├── 04-LangChain_Basics/
-│
-├── 05-Conversation_Memory/
-│
-├── 06-Structured_Output/
-│
-├── 07-Embeddings/
-│
-├── 08-Vector_Databases/
-│
-├── 09-RAG/
-│
-├── 10-AI_Agents/
-│
-├── 11-Projects/
-│
-├── requirements.txt
-├── .env.example
-├── .gitignore
-└── README.md
-```
+'''
 
 ---
 
